@@ -175,6 +175,61 @@ for result in o["results"]:
     print(result["trackName"])
 
 ```
+```js
+   this file saying.py
+def main():
+    hello("world")
+    goodbye("world")
+
+def hello(name):
+    print(f"hello, {name}")
+
+def goodbye(name):
+    print(f"goodbye, {name}")        
+
+main()    
+
+
+```
+```js
+import sys
+
+from saying import goodbye
+
+
+if len(sys.argv)==2:
+    goodbye(sys.argv[1])
+
+```
+
+```js
+def main():
+    hello("world")
+    goodbye("world")
+
+def hello(name):
+    print(f"hello, {name}")
+
+def goodbye(name):
+    print(f"goodbye, {name}")        
+if __name__=="__main__":
+
+ main()    
+
+```
+
+
+
+
+```js
+import sys
+
+from saying import hello 
+
+
+if len(sys.argv)==2:
+    hello(sys.argv[1])
+```
 
 
 
