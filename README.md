@@ -1,4 +1,15 @@
 # Python-Libraries
+- __[Python-Conditionals](https://github.com/mrf-coder/Python-Conditionals.git)__ - 
+- __[Python-Loops](https://github.com/mrf-coder/Python-Loops.git)__ - 
+- __[Python-Eceptions ](https://github.com/mrf-coder/Python-Eceptions.git)__ - 
+- __[Python-Libraries ](https://github.com/mrf-coder/Python-Libraries.git)__ - 
+- __[Python-UnitTest ](https://github.com/mrf-coder/Python-UnitTest.git)__ - 
+- __[Python-I-o](https://github.com/mrf-coder/Python-I-o.git)__ - 
+- __[Regular-Expressions ](https://github.com/mrf-coder/Regular-Expressions.git)__ - 
+- __[Object-Oriented-Programming](https://github.com/mrf-coder/Object-Oriented-Programming.git)__ - 
+- __[Et-Cetera](https://github.com/mrf-coder/Et-Cetera.git)__ - 
+
+
 
 ```
 Python libraries are collections of pre-written code, modules, and packages that provide
@@ -230,6 +241,17 @@ from saying import hello
 if len(sys.argv)==2:
     hello(sys.argv[1])
 ```
+- __[Python-Conditionals](https://github.com/mrf-coder/Python-Conditionals.git)__ - 
+- __[Python-Loops](https://github.com/mrf-coder/Python-Loops.git)__ - 
+- __[Python-Eceptions ](https://github.com/mrf-coder/Python-Eceptions.git)__ - 
+- __[Python-Libraries ](https://github.com/mrf-coder/Python-Libraries.git)__ - 
+- __[Python-UnitTest ](https://github.com/mrf-coder/Python-UnitTest.git)__ - 
+- __[Python-I-o](https://github.com/mrf-coder/Python-I-o.git)__ - 
+- __[Regular-Expressions ](https://github.com/mrf-coder/Regular-Expressions.git)__ - 
+- __[Object-Oriented-Programming](https://github.com/mrf-coder/Object-Oriented-Programming.git)__ - 
+- __[Et-Cetera](https://github.com/mrf-coder/Et-Cetera.git)__ - 
+
+
 
 
 
